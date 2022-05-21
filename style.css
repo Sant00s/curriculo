@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    background-color: #d3d3d365;
+    font-family: 'Merriweather';
+}
+
+.col1{
+    width: 45%;
+    float: left;
+    float: inline-start;
+    margin: 2%;
+}
+
+.col2{
+    width: 45%;
+    float: right;
+    float: inline-start;
+    margin: 2%;
+}
+
+h3{
+    color: #2079c7;
+    font-family: 'open sans';
+}
+
+h5{
+    font-family: 'open sans';
+    color: #666666;
+}
+
+h2{
+    font-family: 'open sans';
+    color: #666666;
+    font-size: 15px;
+}
+
+#infos{
+    font-family: 'open sans';
+    font-size: 80%;
+}
+
+h1{
+    font-size: 45px;
+}
+
+ul {
+    list-style-type: none;
+    }
+
+img{
+    width: 80px;
+    height: 80px;
+}
+    
+
+
+
